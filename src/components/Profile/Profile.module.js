@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const Description = styled.div`
-  background-color: purple;
+  background-color: violet;
   padding: 10px;
   width: 300px;
   margin-right: auto;
