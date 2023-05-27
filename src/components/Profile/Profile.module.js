@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const Description = styled.div`
-  background-color: green;
+  background-color: purple;
   padding: 10px;
   width: 300px;
   margin-right: auto;
@@ -22,7 +22,8 @@ export const Name = styled.p`
   font-family: sans-serif;
   font-size: 20px;
   font-weight: 600;
-  color: #9e9b9b;
+  color: black;
+
 `;
 
 export const Tag = styled.p`
