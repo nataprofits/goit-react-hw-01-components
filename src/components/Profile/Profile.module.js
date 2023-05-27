@@ -1,6 +1,6 @@
 import styled from "styled-components";
 export const Description = styled.div`
-  background-color: white;
+  background-color: rgba(0, 0, 255, 0.5);
   padding: 10px;
   width: 300px;
   margin-right: auto;
@@ -31,6 +31,7 @@ export const Tag = styled.p`
   font-family: sans-serif;
   font-size: 15px;
   font-weight: 500;
+  color:black;
 `;
 export const Location = styled.p`
   font-family: sans-serif;
@@ -38,6 +39,7 @@ export const Location = styled.p`
   font-weight: 600;
   color: #837d7d;
   margin-bottom: 15px;
+  color:black;
 `;
 export const Stats = styled.ul`
   display: flex;
@@ -59,11 +61,11 @@ export const Wrap = styled.li`
   border: 1px solid #918b8b;
   justify-content: center;
   align-items: center;
-  background-color: rgb(216 216 216);
+  background-color: grey;
   width: 100px;
 `;
 export const Quantity = styled.span`
   font-size: 18px;
-  color: #413e3e;
+  color: #595959;
   font-weight: 700;
 `;

@@ -8,7 +8,7 @@ export const Title = styled.h2`
   font-family: sans-serif;
   text-transform: uppercase;
 
-  color: rgb(137, 129, 129);
+  color: #595959;
   line-height: 1.07;
 
   background-color: white;
@@ -35,7 +35,7 @@ export const Item = styled.li`
   font-size: 20px;
   font-family: sans-serif;
   font-weight: 600;
-  color: #fbfbfb;
+  color: #595959;
   border: 1px solid #b39d9d;
   padding: 5px;
   width: 100%;
