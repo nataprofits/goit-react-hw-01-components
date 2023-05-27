@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nataprofits/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/nataprofits/goit-react-hw-01-components/static/js/main.c216c99e.js",
+    "main.js": "/nataprofits/goit-react-hw-01-components/static/js/main.f72f212c.js",
     "index.html": "/nataprofits/goit-react-hw-01-components/index.html",
     "main.7acaea2f.css.map": "/nataprofits/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.c216c99e.js.map": "/nataprofits/goit-react-hw-01-components/static/js/main.c216c99e.js.map"
+    "main.f72f212c.js.map": "/nataprofits/goit-react-hw-01-components/static/js/main.f72f212c.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.c216c99e.js"
+    "static/js/main.f72f212c.js"
   ]
 }
